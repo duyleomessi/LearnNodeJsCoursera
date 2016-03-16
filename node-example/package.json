@@ -1,0 +1,15 @@
+{
+  "name": "coursera",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rectangle-2.js",
+  "dependencies": {
+    "yargs": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
